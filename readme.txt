@@ -25,3 +25,6 @@ E. AWS EC2 Instances - Orale
 F. Methodology Design - Orale
 Summary - Orale
 References - ALL
+
+Powerpoint Presentation - Cruzada
+Video Editing - Orale
